@@ -164,11 +164,7 @@ B.Tech – Computer Science & Data Science
 
 NRI Institute of Technology
 
-📧 Email: your-email@example.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-
-🐙 GitHub: https://github.com/YOUR-GITHUB
+📧 Email: pujithachowdary189@gmail.com
 
 ---
 
